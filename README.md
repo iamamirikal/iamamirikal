@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @iamamirikal
-- 🌱 I’m currently looking forward for Data analyst / SQL developer / Power BI developer roles / venture capitalist roles.
-- 📫 How to reach me - https://www.linkedin.com/in/mirika-maharishi-b31b3a142/ or maharishimirika@gmail.com
+HI I'm Mirika Maharishi
+ I’m currently working on Advance SQL and Power BI
+👯 I’m looking to collaborate on Power BI Dashboarding, Data Cleaning and Database interaction with MySQL
+💬 Ask me about SQL, Power BI, and Excel
+📫 How to reach me maharishimirika@gmail.com
 
 My Skills in SQL
 
@@ -32,6 +34,7 @@ Tools
 In addition to SQL, I'm proficient in using the following tools to enhance my data analysis and reporting capabilities:
 
 Microsoft Excel: I use Excel for data cleaning, transformation, and visualization.
+
 Power BI: I create interactive and insightful reports and dashboards to communicate data-driven insights effectively.
 Feel free to explore the code and projects in my repositories to see how I apply these SQL skills and tools to solve real-world data challenges.
 
