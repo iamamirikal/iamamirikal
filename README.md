@@ -1,4 +1,5 @@
 HI I'm Mirika Maharishi
+
  I’m currently working on Advance SQL and Power BI
 👯 I’m looking to collaborate on Power BI Dashboarding, Data Cleaning and Database interaction with MySQL
 💬 Ask me about SQL, Power BI, and Excel
